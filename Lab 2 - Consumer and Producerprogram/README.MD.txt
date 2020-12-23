@@ -1,0 +1,1 @@
+We were tasked to create two programs: producer and consumer. The producer generates the sequence of numbers using Collatz conjecture and writes it to the shared memory. The consumer reads the sequence of number out from the shared memory.
