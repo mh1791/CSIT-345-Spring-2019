@@ -1,1 +1,1 @@
-This program uses multithreading to check to see if soduku puzzle is valid.
+This program uses multithreading to check to see if a soduku puzzle is valid.
